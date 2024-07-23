@@ -1,1 +1,1 @@
-# semantic segmentation for autonomous vehicles using YOLOv8
+# Semantic Segmentation for Autonomous Vehicles using YOLOv8
