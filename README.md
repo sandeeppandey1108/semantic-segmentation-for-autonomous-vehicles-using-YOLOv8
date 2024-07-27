@@ -32,12 +32,10 @@ This repository contains the implementation of semantic segmentation for autonom
 1. **YOLOv8s:**
    - Overall F1 score: 0.82 at confidence 0.525.
    - MaskF1 score: 0.81 at confidence 0.525.
-   ![YOLOv8s F1-Confidence Curve](path_to_your_images/BoxF1_curve.png)
 
 2. **YOLOv8l:**
    - Overall F1 score: 0.83 at confidence 0.629.
    - MaskF1 score: 0.83 at confidence 0.629.
-   ![YOLOv8l F1-Confidence Curve](path_to_your_images/MaskF1_curve.png)
 
 **Observation:** YOLOv8l shows a slight improvement in the overall F1 score and confidence compared to YOLOv8s.
 
@@ -46,12 +44,10 @@ This repository contains the implementation of semantic segmentation for autonom
 1. **YOLOv8s:**
    - Overall precision: 1.00 at confidence 0.919.
    - Mask precision: 0.99 at confidence 0.897.
-   ![YOLOv8s Precision-Confidence Curve](path_to_your_images/BoxP_curve.png)
 
 2. **YOLOv8l:**
    - Overall precision: 1.00 at confidence 0.970.
    - Mask precision: 0.99 at confidence 0.970.
-   ![YOLOv8l Precision-Confidence Curve](path_to_your_images/MaskP_curve.png)
 
 **Observation:** Both models have high precision, with YOLOv8l achieving this at a slightly higher confidence level.
 
