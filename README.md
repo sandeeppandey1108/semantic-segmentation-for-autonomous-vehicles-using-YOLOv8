@@ -210,15 +210,15 @@ This comprehensive comparison highlights the strengths of YOLOv8l in achieving s
 </div>
 
 
-## YOLOv8l Results
+##  YOLOv8l Results
 <div>
-  <img src="Yolo8L/runs/segment/train/train_batch0.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/train/train_batch1.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/train/train_batch2.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/val/val_batch0_labels.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/val/val_batch0_pred.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/val/val_batch1_labels.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/val/val_batch1_pred.jpg" width="300" height="200">
+  <img src="https://github.com/sandeeppandey1108/semantic-segmentation-for-autonomous-vehicles-using-YOLOv8/blob/main/Yolo8L/Segment/Train/train_batch0.jpg" width="300" height="200">
+  <img src="https://github.com/sandeeppandey1108/semantic-segmentation-for-autonomous-vehicles-using-YOLOv8/blob/main/Yolo8L/Segment/Train/train_batch1.jpg" width="300" height="200">
+  <img src="https://github.com/sandeeppandey1108/semantic-segmentation-for-autonomous-vehicles-using-YOLOv8/blob/main/Yolo8L/Segment/Train/train_batch2.jpg" width="300" height="200">
+  <img src="https://github.com/sandeeppandey1108/semantic-segmentation-for-autonomous-vehicles-using-YOLOv8/blob/main/Yolo8L/Segment/Train/val_batch0_labels.jpg" width="300" height="200">
+  <img src="https://github.com/sandeeppandey1108/semantic-segmentation-for-autonomous-vehicles-using-YOLOv8/blob/main/Yolo8L/Segment/Train/val_batch0_pred.jpg" width="300" height="200">
+  <img src="https://github.com/sandeeppandey1108/semantic-segmentation-for-autonomous-vehicles-using-YOLOv8/blob/main/Yolo8L/Segment/Train/val_batch1_labels.jpg" width="300" height="200">
+  <img src="https://github.com/sandeeppandey1108/semantic-segmentation-for-autonomous-vehicles-using-YOLOv8/blob/main/Yolo8L/Segment/Train/val_batch1_pred.jpg" width="300" height="200">
 </div>
 
 ## Acknowledgments
