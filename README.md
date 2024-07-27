@@ -208,17 +208,18 @@ This comprehensive comparison highlights the strengths of YOLOv8l in achieving s
   <img src="Yolo8S/runs/segment/predict/Seq05VD_f03900_png.rf.7200a513c95191b59ed097360a271525.jpg" width="300" height="200">
   <img src="Yolo8S/runs/segment/predict/Seq05VD_f04770_png.rf.08330c053451a01ba64b1b7ac957cf37.jpg" width="300" height="200">
 </div>
-YOLOv8l Results
+
+
+## YOLOv8l Results
 <div>
-  <img src="Yolo8L/runs/segment/predict/train_batch0.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/predict/train_batch1.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/predict/train_batch2.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/predict/val_batch0_labels.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/predict/val_batch0_pred.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/predict/val_batch1_labels.jpg" width="300" height="200">
-  <img src="Yolo8L/runs/segment/predict/val_batch1_pred.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/train/train_batch0.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/train/train_batch1.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/train/train_batch2.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/val/val_batch0_labels.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/val/val_batch0_pred.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/val/val_batch1_labels.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/val/val_batch1_pred.jpg" width="300" height="200">
 </div>
-```
 
 ## Acknowledgments
 
