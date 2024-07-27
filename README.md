@@ -188,28 +188,46 @@ This comprehensive comparison highlights the strengths of YOLOv8l in achieving s
    ```
 
 ## Results
-
-### YOLOv8s Results
-![YOLOv8s Result 1](Yolo8S/runs/segment/predict/0016E5_08119_png.rf.9f71ba3297aea88e236b0ac9fde07b4d.jpg)
-![YOLOv8s Result 2](Yolo8S/runs/segment/predict/0016E5_08145_png.rf.193a74db2e6492f0879f7824be7f12d4.jpg)
-![YOLOv8s Result 3](Yolo8S/runs/segment/predict/Seq05VD_f01260_png.rf.e9ce7e7a47ae601905f5501f684e24a6.jpg)
-![YOLOv8s Result 4](Yolo8S/runs/segment/predict/Seq05VD_f01290_png.rf.a4bbf91dfc27dbc9ea84acfb00ab54f4.jpg)
-![YOLOv8s Result 5](Yolo8S/runs/segment/predict/Seq05VD_f01440_png.rf.1c0805ec8d691a1ed81e120590070bb4.jpg)
-![YOLOv8s Result 6](Yolo8S/runs/segment/predict/Seq05VD_f01470_png.rf.6a0831259f9a354ec150fef6caba02b9.jpg)
-![YOLOv8s Result 7](Yolo8S/runs/segment/predict/Seq05VD_f01710_png.rf.1dff8bfb75e90a218d12780649dfe7ed.jpg)
-![YOLOv8s Result 8](Yolo8S/runs/segment/predict/Seq05VD_f02280_png.rf.a841e26d43b141da03d826414ab9e05f.jpg)
-![YOLOv8s Result 9](Yolo8S/runs/segment/predict/Seq05VD_f02550_png.rf.f9f1595be603624311d6bae0b717b056.jpg)
-![YOLOv8s Result 10](Yolo8S/runs/segment/predict/Seq05VD_f02910_png.rf.69bb2cef83b1f35aea6d9b1de2872e5d.jpg)
-
-
-### YOLOv8l Results
-![YOLOv8l Result 1](Yolo8L/runs/segment/predict/0016E5_08119_png.rf.9f71ba3297aea88e236b0ac9fde07b4d.jpg)
-![YOLOv8l Result 2](Yolo8L/runs/segment/predict/0016E5_08145_png.rf.193a74db2e6492f0879f7824be7f12d4.jpg)
-![YOLOv8l Result 3](Yolo8L/runs/segment/predict/Seq05VD_f01260_png.rf.e9ce7e7a47ae601905f5501f684e24a6.jpg)
-![YOLOv8l Result 4](Yolo8L/runs/segment/predict/Seq05VD_f01290_png.rf.a4bbf91dfc27dbc9ea84acfb00ab54f4.jpg)
-![YOLOv8l Result 5](Yolo8L/runs/segment/predict/Seq05VD_f01440_png.rf.1c0805ec8d691a1ed81e120590070bb4.jpg)
-![YOLOv8l Result 6](Yolo8L/runs/segment/predict/Seq05VD_f01470_png.rf.6a0831259f9a354ec150fef6caba02b9.jpg)
-
+ # YOLOv8s Results
+<div>
+  <img src="Yolo8S/runs/segment/predict/0016E5_08119_png.rf.9f71ba3297aea88e236b0ac9fde07b4d.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/0016E5_08145_png.rf.193a74db2e6492f0879f7824be7f12d4.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f01260_png.rf.e9ce7e7a47ae601905f5501f684e24a6.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f01290_png.rf.a4bbf91dfc27dbc9ea84acfb00ab54f4.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f01440_png.rf.1c0805ec8d691a1ed81e120590070bb4.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f01470_png.rf.6a0831259f9a354ec150fef6caba02b9.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f01710_png.rf.1dff8bfb75e90a218d12780649dfe7ed.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f02280_png.rf.a841e26d43b141da03d826414ab9e05f.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f02550_png.rf.f9f1595be603624311d6bae0b717b056.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f02910_png.rf.69bb2cef83b1f35aea6d9b1de2872e5d.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f03360_png.rf.f659231950323ac45fed21b03a670695.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f03390_png.rf.3690310c8392fbd12c9f902d6f6caf95.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f03540_png.rf.e26303d960a79c3614a9a9327fda5ba4.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f03630_png.rf.f847a7babe5df1935033d19273a07daf.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f03870_png.rf.ac742ddfb483be20257161505e4d1861.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f03900_png.rf.7200a513c95191b59ed097360a271525.jpg" width="300" height="200">
+  <img src="Yolo8S/runs/segment/predict/Seq05VD_f04770_png.rf.08330c053451a01ba64b1b7ac957cf37.jpg" width="300" height="200">
+</div>
+YOLOv8l Results
+<div>
+  <img src="Yolo8L/runs/segment/predict/0016E5_08119_png.rf.9f71ba3297aea88e236b0ac9fde07b4d.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/0016E5_08145_png.rf.193a74db2e6492f0879f7824be7f12d4.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f01260_png.rf.e9ce7e7a47ae601905f5501f684e24a6.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f01290_png.rf.a4bbf91dfc27dbc9ea84acfb00ab54f4.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f01440_png.rf.1c0805ec8d691a1ed81e120590070bb4.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f01470_png.rf.6a0831259f9a354ec150fef6caba02b9.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f01710_png.rf.1dff8bfb75e90a218d12780649dfe7ed.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f02280_png.rf.a841e26d43b141da03d826414ab9e05f.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f02550_png.rf.f9f1595be603624311d6bae0b717b056.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f02910_png.rf.69bb2cef83b1f35aea6d9b1de2872e5d.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f03360_png.rf.f659231950323ac45fed21b03a670695.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f03390_png.rf.3690310c8392fbd12c9f902d6f6caf95.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f03540_png.rf.e26303d960a79c3614a9a9327fda5ba4.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f03630_png.rf.f847a7babe5df1935033d19273a07daf.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f03870_png.rf.ac742ddfb483be20257161505e4d1861.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f03900_png.rf.7200a513c95191b59ed097360a271525.jpg" width="300" height="200">
+  <img src="Yolo8L/runs/segment/predict/Seq05VD_f04770_png.rf.08330c053451a01ba64b1b7ac957cf37.jpg" width="300" height="200">
+</div>
 
 ## Acknowledgments
 
