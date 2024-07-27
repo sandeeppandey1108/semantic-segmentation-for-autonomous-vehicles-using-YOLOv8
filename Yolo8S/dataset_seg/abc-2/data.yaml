@@ -1,0 +1,13 @@
+names:
+- Bicyclist
+- Building
+- Car
+- Road
+- Tree
+- Truck_Bus
+- person
+nc: 7
+
+test: /content/abc-2/test/images
+train: /content/abc-2/train/images
+val: /content/abc-2/valid/images
