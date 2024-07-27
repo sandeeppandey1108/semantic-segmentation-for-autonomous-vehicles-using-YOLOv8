@@ -60,12 +60,10 @@ This repository contains the implementation of semantic segmentation for autonom
 1. **YOLOv8s:**
    - mAP at 0.5 IoU: 0.849.
    - Mask mAP at 0.5 IoU: 0.865.
-   ![YOLOv8s Precision-Recall Curve](path_to_your_images/BoxPR_curve.png)
 
 2. **YOLOv8l:**
    - mAP at 0.5 IoU: 0.873.
    - Mask mAP at 0.5 IoU: 0.854.
-   ![YOLOv8l Precision-Recall Curve](path_to_your_images/MaskPR_curve.png)
 
 **Observation:** YOLOv8l demonstrates a higher mAP, indicating better precision-recall balance.
 
@@ -74,12 +72,10 @@ This repository contains the implementation of semantic segmentation for autonom
 1. **YOLOv8s:**
    - Overall recall: 0.94 at confidence 0.000.
    - Mask recall: 0.96 at confidence 0.000.
-   ![YOLOv8s Recall-Confidence Curve](path_to_your_images/BoxR_curve.png)
 
 2. **YOLOv8l:**
    - Overall recall: 0.96 at confidence 0.000.
    - Mask recall: 0.92 at confidence 0.000.
-   ![YOLOv8l Recall-Confidence Curve](path_to_your_images/MaskR_curve.png)
 
 **Observation:** YOLOv8l maintains high recall, similar to YOLOv8s.
 
@@ -89,11 +85,9 @@ This repository contains the implementation of semantic segmentation for autonom
 
 1. **YOLOv8s:**
    - Shows the true positive, false positive, and false negative counts for each class.
-   ![YOLOv8s Confusion Matrix](path_to_your_images/confusion_matrix.png)
 
 2. **YOLOv8l:**
    - Similar layout showing class-specific performance.
-   ![YOLOv8l Confusion Matrix](path_to_your_images/confusion_matrix.png)
 
 **Observation:** Both models' confusion matrices reveal the class-specific performance and misclassifications. A detailed comparison shows improvements in certain classes for YOLOv8l.
 
@@ -101,11 +95,9 @@ This repository contains the implementation of semantic segmentation for autonom
 
 1. **YOLOv8s:**
    - Normalized values show the proportion of correct predictions.
-   ![YOLOv8s Normalized Confusion Matrix](path_to_your_images/confusion_matrix_normalized.png)
 
 2. **YOLOv8l:**
    - Similar normalized matrix indicating slight improvements in classification accuracy.
-   ![YOLOv8l Normalized Confusion Matrix](path_to_your_images/confusion_matrix_normalized.png)
 
 **Observation:** Normalized matrices highlight relative performance, with YOLOv8l showing minor improvements in specific classes.
 
@@ -113,8 +105,7 @@ This repository contains the implementation of semantic segmentation for autonom
 
 1. **Labels Distribution and Correlogram (YOLOv8s & YOLOv8l):**
    - Both models show the distribution of instances per class and bounding box spatial distributions.
-   ![Labels](path_to_your_images/labels.jpg)
-   ![Correlogram](path_to_your_images/labels_correlogram.jpg)
+   
 
 **Observation:** The distribution and spatial patterns are similar, with slight differences potentially impacting class-specific performance.
 
@@ -123,12 +114,10 @@ This repository contains the implementation of semantic segmentation for autonom
 1. **YOLOv8s Learning Curves:**
    - Training and validation losses decrease steadily, indicating effective learning.
    - Precision and recall metrics improve over epochs.
-   ![YOLOv8s Learning Curves](path_to_your_images/results.png)
 
 2. **YOLOv8l Learning Curves:**
    - Similar trend of decreasing training and validation losses.
    - Precision and recall metrics show consistent improvement, with YOLOv8l reaching higher mAP values.
-   ![YOLOv8l Learning Curves](path_to_your_images/results.png)
 
 **Observation:** YOLOv8l demonstrates more stable and slightly better learning curves, reflecting in improved overall performance metrics.
 
