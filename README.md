@@ -227,5 +227,3 @@ This comprehensive comparison highlights the strengths of YOLOv8l in achieving s
 - Autonomous driving research community
 
 For any questions or issues, please contact [sandeeppandey00880@gmail.com].
-```
-
