@@ -226,6 +226,5 @@ This comprehensive comparison highlights the strengths of YOLOv8l in achieving s
 ## Acknowledgments
 
 - YOLOv8 framework
-- Autonomous driving research community
-
+  
 For any questions or issues, please contact [sandeeppandey00880@gmail.com].
